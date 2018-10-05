@@ -1,3 +1,4 @@
 #ignore Игнор папок и файлов
 
 text/
+.gitignore

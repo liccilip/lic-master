@@ -2,7 +2,7 @@ pragma solidity ^0.4.0;
 
 import "./structures.sol";
 
-contract EthereumCV {
+contract EthereumLic {
     mapping (string => string) basic_data;
     address owner;
 
@@ -14,7 +14,7 @@ contract EthereumCV {
     // =====================
     // ==== CONSTRUCTOR ====
     // =====================
-    function EthereumCV() {
+    function EthereumLic() {
         owner = msg.sender;
     }
 
