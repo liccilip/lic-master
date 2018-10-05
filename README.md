@@ -1,1 +1,1 @@
-# Summary the dip
+# Summary the dip (резюме на смарте)
